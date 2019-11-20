@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Desenvolvimento de Software
-image: /img/blur-close-up-code-computer-546819.jpg
+image: /img/business-code-coding-computer-270360.jpg
 heading: 'Criação de sites, marketing digital e consultoria'
 subheading: 'Aplicativos web, desktop e mobile.'
 mainpitch:
