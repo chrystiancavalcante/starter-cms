@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Desenvolvimento de Software
-image: /img/person-using-black-and-gray-laptop-computer-beside-white-1923286.jpg
+image: /img/blur-close-up-code-computer-546819.jpg
 heading: 'Criação de sites, marketing digital e consultoria'
 subheading: 'Aplicativos web, desktop e mobile.'
 mainpitch:
