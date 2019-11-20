@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Coffee
+title: Software Pro
 image: /img/admin.jpg
 heading: Great coffee with a conscience
 description: >-
